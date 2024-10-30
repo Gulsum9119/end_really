@@ -248,9 +248,7 @@ align-items: center;}
             gap: 4px;
 
         }
-.nav ul a{
-   
-}        
+    
 .menu-burger_header {
             display: block; /* Показываем бургер-меню на малых экранах */
         }
